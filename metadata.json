@@ -1,0 +1,9 @@
+
+{
+  "name": "QurMa AI - IAI Persis Bandung Digital Library",
+  "description": "Layanan AI pendamping Digital Library IAI Persis Bandung untuk referensi Al-Quran, Hadis, dan literatur Islam.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
