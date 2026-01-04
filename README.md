@@ -1,0 +1,2 @@
+# qurmaai
+ai untuk alquran
